@@ -14,7 +14,7 @@ using MelonLoader;
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonInfo(typeof(NoMoreWeather.NoMoreWeather), "NoMoreWeather", "1.0.0", "Cannabis")]
+[assembly: MelonInfo(typeof(NoMoreWeather.NoMoreWeather), "NoMoreWeather", "1.0.1", "Cannabis")]
 [assembly: MelonGame("Battlestate Games", "Escape from Tarkov")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
